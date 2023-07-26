@@ -1,0 +1,15 @@
+{
+  "name": "vite-node-hmr-bug",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "vite-node -w script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite-node": "^0.33.0"
+  }
+}
